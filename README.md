@@ -1,4 +1,4 @@
-# React-setup
+# React-Starting-Project
 React Project with Parcel, ESLint and Prettier Config
 
 # Tools for bundling and configuration
